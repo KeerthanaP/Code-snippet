@@ -1,0 +1,5 @@
+MAIL_SERVER_NAME='smtp.gmail.com'
+MAIL_SERVER_PORT=587
+MAIL_SERVER_USE_TLS=True
+FROM_ID='your_email'
+FROM_PASSWORD='your_password'
