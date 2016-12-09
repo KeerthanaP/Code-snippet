@@ -1,6 +1,10 @@
-#run as 
+
+__author__ = "Keerthana Prabhakaran"
+__version__ = "1.0.1"
+__maintainer__ = "Keerthana Prabhakaran"
+__email__ = "keerthi.pkrn@gmail.com"
+__status__ = "Accepted"
 #python reverseAndAdd.py inFile.txt
-#
 """contents of inFile.txt
 195
 """
